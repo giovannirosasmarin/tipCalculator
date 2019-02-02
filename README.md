@@ -4,7 +4,7 @@
 
 Submitted by: **Giovanni Rosas-Marin**
 
-Time spent: **1** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had a samsung laptop and installed virtual machine with ios x but it would crash all the time and it was to slow so I had to borrow some money to purchase a macbook to be able to do the homework and it took me some days to get the money and after I got the mac it did not work correcty and it was brand new so I had to go change it for a new one again to bestbuy and had to start again but it was faster to do. I started doing it and finished yesterday but when I committed to github I thought it was saved but it was all empty it did not save until today that I learned more. But I think the biggest challenge was getting the computer than doind the assignment just some technical problem. :(
 
 ## License
 
